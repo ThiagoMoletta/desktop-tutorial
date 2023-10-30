@@ -1,5 +1,8 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Repositório de teste para conteúdo do curdo TDS EAD Senac - Criado por THIAGO MOLETTA DE OLIVEIRA
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Este é apenas um repositório de teste para configuração e funcionalidades do aplicativo para desktop GitHub Desktop
+
+Livre para uso pessoal irrestrito.
+                  
